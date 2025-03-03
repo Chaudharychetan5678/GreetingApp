@@ -1,1 +1,1 @@
-# GreetingApp
+# SpringGreetingApp
